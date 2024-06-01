@@ -1,0 +1,1 @@
+Bot for fetching anime airing info
